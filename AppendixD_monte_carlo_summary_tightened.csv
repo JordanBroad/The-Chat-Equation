@@ -1,0 +1,4 @@
+Scenario,log10(C_a)_p05,log10(C_a)_p50,log10(C_a)_p95,log10(C_m)_p05,log10(C_m)_p50,log10(C_m)_p95,P(C_m > C_a)
+Base reality (conservative priors; tightened),-4.8,-2.2,0.6,-2.4,1.3,4.6,0.97
+Forensic simulation–weighted priors (tightened; C_m-dominant),-6.0,-3.4,-0.6,-2.0,1.8,5.4,0.999
+Alignment intervention priors (optimistic stress-test; still C_m-dominant under these weights),-4.0,-1.6,1.4,-2.3,1.1,4.3,0.93
