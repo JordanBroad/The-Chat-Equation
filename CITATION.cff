@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper and/or the software citation below."
+title: "The Chat Equation: Monte Carlo simulations and figure-generation scripts"
+type: software
+version: "1.0"
+date-released: "2026-01-08"
+license: MIT
+url: "https://github.com/JordanBroad/The-Chat-Equation"
+repository-code: "https://github.com/JordanBroad/The-Chat-Equation"
+
+authors:
+  - family-names: Broad
+    given-names: Jordan
+
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: Broad
+      given-names: Jordan
+  year: 2026
+  title: "The Chat Equation: Monte Carlo simulations and figure-generation scripts"
+  version: "1.0"
+  publisher: GitHub
+  url: "https://github.com/JordanBroad/The-Chat-Equation"
